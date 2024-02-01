@@ -23,7 +23,7 @@ I am proficient in providing data scraping solutions by creating Scrapers to aut
 <br>
 
 ## Contact
-Please feel free to reach out to me at russets-lens0x@icloud.com for any job offers, queries, or potential collaborations.
+Please feel free to reach out to me at [my email](mailto:russets-lens0x@icloud.com) for any job offers, queries, or potential collaborations.
 ## Socials
 <p align="left"> <a href="https://www.github.com/pRimeRly" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/miracle-ukpongson" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 I look forward to connecting with you!
